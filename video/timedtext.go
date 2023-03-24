@@ -3,10 +3,10 @@ package video
 import (
 	"net/http"
 
-	"github.com/suconghou/videoproxy/db"
-	"github.com/suconghou/videoproxy/request"
-	"github.com/suconghou/videoproxy/util"
-	"github.com/suconghou/youtubevideoparser"
+	"github.com/sujjadapp/videoproxy/db"
+	"github.com/sujjadapp/videoproxy/request"
+	"github.com/sujjadapp/videoproxy/util"
+	"github.com/sujjadapp/youtubevideoparser"
 )
 
 // info 解析存在缓存,此处ProxyCall也缓存
