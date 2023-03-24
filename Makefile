@@ -3,4 +3,4 @@ build:
 
 docker:
 	make build && \
-	docker build -t=suconghou/videoproxy .
+	docker build -t=sujjadapp/videoproxy .
