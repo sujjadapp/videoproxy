@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/suconghou/videoproxy/db"
-	"github.com/suconghou/videoproxy/util"
-	"github.com/suconghou/youtubevideoparser"
+	"github.com/sujjadapp/videoproxy/db"
+	"github.com/sujjadapp/videoproxy/util"
+	"github.com/sujjadapp/youtubevideoparser"
 )
 
 var (
