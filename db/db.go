@@ -10,7 +10,7 @@ import (
 	"time"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/suconghou/videoproxy/util"
+	"github.com/sujjadapp/videoproxy/util"
 )
 
 var (
