@@ -8,8 +8,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/suconghou/videoproxy/route"
-	"github.com/suconghou/videoproxy/util"
+	"github.com/sujjadapp/videoproxy/route"
+	"github.com/sujjadapp/videoproxy/util"
 )
 
 func main() {
