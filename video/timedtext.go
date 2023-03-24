@@ -6,7 +6,7 @@ import (
 	"github.com/sujjadapp/videoproxy/db"
 	"github.com/sujjadapp/videoproxy/request"
 	"github.com/sujjadapp/videoproxy/util"
-	"github.com/sujjadapp/youtubevideoparser"
+	"github.com/suconghou/youtubevideoparser"
 )
 
 // info 解析存在缓存,此处ProxyCall也缓存
