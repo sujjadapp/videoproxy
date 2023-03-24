@@ -8,7 +8,7 @@ import (
 
 	"github.com/sujjadapp/videoproxy/db"
 	"github.com/sujjadapp/videoproxy/util"
-	"github.com/sujjadapp/youtubevideoparser"
+	"github.com/suconghou/youtubevideoparser"
 )
 
 var (
