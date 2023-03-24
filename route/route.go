@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"regexp"
 
-	"github.com/suconghou/videoproxy/video"
+	"./video"
 )
 
 // 路由定义
