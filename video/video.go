@@ -10,10 +10,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/suconghou/videoproxy/cache"
-	"github.com/suconghou/videoproxy/db"
-	"github.com/suconghou/videoproxy/request"
-	"github.com/suconghou/videoproxy/util"
+	"github.com/sujjadapp/videoproxy/cache"
+	"github.com/sujjadapp/videoproxy/db"
+	"github.com/sujjadapp/videoproxy/request"
+	"github.com/sujjadapp/videoproxy/util"
 
 	"github.com/suconghou/youtubevideoparser"
 )
