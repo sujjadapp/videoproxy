@@ -8,8 +8,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"/route"
-	"/util"
+	"./route"
+	"./util"
 )
 
 func main() {
