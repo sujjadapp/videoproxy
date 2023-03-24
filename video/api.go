@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/suconghou/videoproxy/request"
-	"github.com/suconghou/videoproxy/util"
+	"github.com/sujjadapp/videoproxy/request"
+	"github.com/sujjadapp/videoproxy/util"
 )
 
 var (
